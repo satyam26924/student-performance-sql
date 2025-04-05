@@ -9,7 +9,7 @@ This project is a simple SQL-based system designed to manage and analyze student
 
 ## Project Structure
 
-- `student_performance_system.sql`: Contains all the table creation scripts and sample data inserts.
+- `student_performance_system(1).sql`: Contains all the table creation scripts and sample data inserts.
 
 ## Tables Included
 
